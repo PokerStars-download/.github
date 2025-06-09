@@ -25,7 +25,7 @@
 
 ## 🖼 Preview
 
-![PokerStars Lobby Filters](https://d3ltpfxjzvda6e.cloudfront.net/2020/09/29/pokerstars-old-lobby-cash-game-filters-sm.png)  
+![PokerStars Lobby Filters](https://pnimg.net/w/articles/0/643/6d6fea7d74.png)  
 *Classic PokerStars lobby with cash game filters*
 
 ![HUD Overview](https://manula.r.sizr.io/large/user/3755/img/hudoverview.png)  
